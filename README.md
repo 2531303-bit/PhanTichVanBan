@@ -1,6 +1,6 @@
 Tên thành viên: 
-Nguyễn Thị Mỹ Cúc - 2531303
-Nguyễn Đức Anh - 2531301
+#Nguyễn Thị Mỹ Cúc - 2531303
+#Nguyễn Đức Anh - 2531301
 # Công cụ phân tích văn bản Tiếng Việt
 ## Giới thiệu
    Dự án xây dựng một ứng dụng phân tích văn bản tiếng Việt dựa trên Streamlit + VnCoreNLP cho phép người dùng nhập vào một đoạn văn bản và nhận kết quả phân tích ngôn ngữ tự nhiên (NLP) trực quan.
@@ -20,8 +20,6 @@ Nguyễn Đức Anh - 2531301
 
 ## Cách chạy
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
-Sau đó mở http://localhost:8501
-
-
+pip install streamlit underthesea
+streamlit run app_vietnamese.py
+Mở trình duyệt tại http://localhost:8501.
