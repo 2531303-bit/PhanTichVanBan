@@ -9,9 +9,7 @@ Tên thành viên:
 ## Chức năng
 - Tách từ (Tokenization): chia văn bản thành các đơn vị từ/cụm từ.
 - Gán nhãn từ loại (POS Tagging): xác định vai trò ngữ pháp của từng từ.
-- Nhận diện thực thể (NER): phát hiện các thực thể như Tên người (PER), Địa điểm (LOC), Tổ chức (ORG), Thời gian (TIME)…
-- Giao diện web trực quan bằng Streamlit.
-
+- Nhận diện thực thể (NER): phát hiện các thực thể như Tên người (PER), Địa điểm (LOC), Tổ chức (ORG),..
 ## Công nghệ
 - Python
 - Streamlit
