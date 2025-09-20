@@ -4,7 +4,7 @@ from underthesea import word_tokenize, pos_tag, ner
 st.title("Công cụ phân tích văn bản Tiếng Việt")
 
 # Nhập văn bản
-text_input = st.text_area("Nhập đoạn văn bản:", "Hà Nội là thủ đô của Việt Nam.")
+text_input = st.text_area("Nhập đoạn văn bản:")
 
 if st.button("Phân tích"):
     if text_input.strip():
@@ -23,4 +23,5 @@ if st.button("Phân tích"):
         entities = ner(text_input)
         st.write(entities)
     else:
+
         st.warning("⚠️ Vui lòng nhập văn bản để phân tích.")
