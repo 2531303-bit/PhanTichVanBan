@@ -14,7 +14,7 @@
 - Streamlit
 – xây dựng giao diện web
 - Dự án sử dụng VnCoreNLP làm công cụ chính để tách từ, gán nhãn từ loại và nhận diện thực thể tiếng Việt.
-- 
+
 ## Cách chạy
 ```bash
 pip install -r requirements.txt
