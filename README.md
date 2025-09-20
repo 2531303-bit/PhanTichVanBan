@@ -1,5 +1,5 @@
 # Công cụ phân tích văn bản Tiếng Việt
-+ Giới thiệu
++ Giới thiệu:
    Dự án xây dựng một ứng dụng phân tích văn bản tiếng Việt dựa trên Streamlit + VnCoreNLP cho phép người dùng nhập vào một đoạn văn bản và nhận kết quả phân tích ngôn ngữ tự nhiên (NLP) trực quan.
   
 + Chức năng chính :
