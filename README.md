@@ -19,7 +19,6 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+Sau đó mở http://localhost:8501
 
- Sau đó mở http://localhost:8501
-## 🖼️ Giao diện minh họa
-![Demo giao diện](images/demo.png)
+
